@@ -1,5 +1,5 @@
-# Window_Directory_Creation_YEAR_Month_Date
-This bat file will create folders according to the Year Month Date. You can change the path as required. 
+#Windows_Directory_Creation_YEAR_Month_Date
+This bat file will create folders according to the Year Month Date eg. 2026\February\20. You can change the folder path as required. 
 
 Eg F:\All\VAS REPORTS\2026\February\20
 
